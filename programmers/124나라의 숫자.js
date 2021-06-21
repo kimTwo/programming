@@ -19,6 +19,7 @@ function solution(n) {
 // 근데 이거 자리수가 늘어남에 따라 노가다인데..
 
 
+
 function solution(n) {
     const number124 = [4, 1, 2];
     var answer = '';
